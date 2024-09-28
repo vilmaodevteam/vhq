@@ -2,7 +2,10 @@ import React from 'react'
 
 const AppBaseLayer = () => {
   return (
-    <div>BASE_LAYER_DEV1-2-1</div>
+    <main>
+      <div>BaseLayer::LAYER1-STARTUP</div>
+      
+    </main>
   )
 }
 
